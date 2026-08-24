@@ -14,8 +14,8 @@ Everything is documented in detail (with screenshots) in the PDFs in [`docs/`](d
 
 | Document | For |
 |---|---|
-| [User Guide — Guests](docs/SarvPariksha-User-Guide-Guest.pdf) | What you can do without an account |
-| [User Guide — Students](docs/SarvPariksha-User-Guide-Student.pdf) | History, certificates, AI toolkit, predictions |
-| [User Guide — Teachers](docs/SarvPariksha-User-Guide-Teacher.pdf) | Exam creation, sharing, analytics, integrity |
+| [User Guide - Guests (no login required)](docs/SarvPariksha-User-Guide-Guest.pdf) | What you can do without an account |
+| [User Guide - Students (login required) ](docs/SarvPariksha-User-Guide-Student.pdf) | History, certificates, AI toolkit, predictions |
+| [User Guide - Teachers (login required) ](docs/SarvPariksha-User-Guide-Teacher.pdf) | Exam creation, sharing, analytics, integrity |
 
 - Questions or feedback → [contact@abhaymouruya.in](mailto:contact@abhaymouruya.in) 
