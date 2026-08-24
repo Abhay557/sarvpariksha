@@ -14,7 +14,6 @@ Everything is documented in detail (with screenshots) in the PDFs in [`docs/`](d
 
 | Document | For |
 |---|---|
-|  **[Complete Documentation](docs/SarvPariksha-Complete-Documentation.pdf)** | Everything in one volume  |
 | [User Guide — Guests](docs/SarvPariksha-User-Guide-Guest.pdf) | What you can do without an account |
 | [User Guide — Students](docs/SarvPariksha-User-Guide-Student.pdf) | History, certificates, AI toolkit, predictions |
 | [User Guide — Teachers](docs/SarvPariksha-User-Guide-Teacher.pdf) | Exam creation, sharing, analytics, integrity |
