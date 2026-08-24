@@ -19,6 +19,4 @@ Everything is documented in detail (with screenshots) in the PDFs in [`docs/`](d
 | [User Guide — Students](docs/SarvPariksha-User-Guide-Student.pdf) | History, certificates, AI toolkit, predictions |
 | [User Guide — Teachers](docs/SarvPariksha-User-Guide-Teacher.pdf) | Exam creation, sharing, analytics, integrity |
 
-- Questions or feedback → [contact@abhaymouruya.in](mailto:contact@abhaymouruya.in) · [Reddit community](https://www.reddit.com/r/SarvPariksha/) · [GitHub](https://github.com/Abhay557)
-
-<p align="center"><i>Developed by <b>@Abhay557</b> · Nagpur, India</i></p>
+- Questions or feedback → [contact@abhaymouruya.in](mailto:contact@abhaymouruya.in) 
