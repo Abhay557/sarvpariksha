@@ -19,3 +19,11 @@ Everything is documented in detail (with screenshots) in the PDFs in [`docs/`](d
 | [User Guide - Teachers (login required) ](docs/SarvPariksha-User-Guide-Teacher.pdf) | Exam creation, sharing, analytics, integrity |
 
 - Questions or feedback → [contact@abhaymouruya.in](mailto:contact@abhaymouruya.in) 
+
+---
+
+
+#### If you looking for code or data please head over to
+##### https://github.com/Abhay557/nta-images
+##### https://huggingface.co/datasets/Abhay557/indian-exams-rawdata 
+some context - this data was collected for ai fine tuning eventually used in this project, if you wanted preprocessed data contact me
