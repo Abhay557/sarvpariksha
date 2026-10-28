@@ -1,6 +1,5 @@
 <h1 align="center">Sarv Pariksha</h1>
 <h4 align="center">परीक्षा सबकी, तैयारी पक्की - <em>Every exam. One platform.</em></h4>
----
 
 ## Documentation
 
