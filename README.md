@@ -1,11 +1,5 @@
 <h1 align="center">Sarv Pariksha</h1>
 <h4 align="center">परीक्षा सबकी, तैयारी पक्की - <em>Every exam. One platform.</em></h4>
-
-<p align="center">
-  Practice real previous-year papers, official NTA CBT mocks and AI-generated challenge exams -
-  in a genuine computer-based-test interface. Teachers can launch a shareable, auto-graded exam in minutes.
-</p>
-
 ---
 
 ## Documentation
